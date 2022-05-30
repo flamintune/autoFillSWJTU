@@ -11,8 +11,7 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponses) => {
         for (let i = 0; i < 16; ++i)
             answerDiv[i].children[0].children[0].click();
         for (let i = 0; i < 2; ++i)
-            answerTextarea[i].value = '...'
-
+            answerTextarea[i].value = '暂无'
     }
     else if (request.info == 'submit') {
         // time = 0
