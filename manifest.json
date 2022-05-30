@@ -1,0 +1,36 @@
+{
+    "name": "swjtu成绩评价自动填充",
+    "version": "0.1",
+    "description": "自动填充成绩评价，节约下来的时间就多陪陪亲人⑧",
+    "manifest_version": 3,
+    "permissions": [
+        "tabs"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "http://jwc.swjtu.edu.cn/*"
+            ],
+            "js": [
+                "auto.js"
+            ],
+            "type": "module",
+            "run_at": "document_end"
+        }
+    ],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "grade.png",
+            "32": "grade.png",
+            "48": "grade.png",
+            "128": "grade.png"
+        }
+    },
+    "icons": {
+        "16": "grade.png",
+        "32": "grade.png",
+        "48": "grade.png",
+        "128": "grade.png"
+    }
+}
