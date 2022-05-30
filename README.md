@@ -8,11 +8,11 @@
 
 ## 第二步：打开对应课程评价界面
 
-![image-20220530171108101](.\image\image-20220530171108101.png)
+![](https://raw.githubusercontent.com/flamintune/autoFillSWJTU/master/image/image-20220530171108101.png)
 
 然后单击插件，点击自动完成成绩评价
 
-![](E:\chromeExtension\grade\image\image-20220530171410.png)
+![](https://raw.githubusercontent.com/flamintune/autoFillSWJTU/master/image/image-20220530171410.png)
 
 ![](E:\chromeExtension\grade\image\image-20220530171615.png)
 
@@ -22,7 +22,7 @@
 
 如果满足了时间限制，直接提交就能成功辣
 
-![](E:\chromeExtension\grade\image\image-20220530172036.png)
+![](https://raw.githubusercontent.com/flamintune/autoFillSWJTU/master/image/image-20220530172036.png)
 
 
 
